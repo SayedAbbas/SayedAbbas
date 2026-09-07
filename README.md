@@ -8,6 +8,8 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 - **Enterprise AI Agents & Agent Evals** — evaluate task outcomes, tool correctness, grounding, safety, and escalation.
 - **Model Context Protocol (MCP)** — connect agents to enterprise tools and context with deliberate access boundaries.
+- **OpenAI on Amazon Bedrock** — build enterprise AI workflows with OpenAI models accessed through Amazon Bedrock.
+- **OpenAI Realtime API** — create interactive speech-to-speech assistants for live conversations.
 - **Voice / Realtime AI** — build conversational experiences for live customer and employee workflows.
 - **Retrieval-Augmented Generation (RAG) & Guardrails** — ground responses in evidence and define when an agent should defer.
 - **Production AI** — bring reliability, observability, governance, and operational discipline to applied AI systems.
@@ -23,8 +25,7 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 Explore six projects spanning enterprise AI, claims intelligence, voice experiences, realtime insights, and resilient contact centers:
 
-- [Claims Intelligence — insurance claims review and provider voice assistant](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant)
-
+- [Claims Intelligence — OpenAI on Amazon Bedrock + OpenAI Realtime API for claims review and provider voice assistance](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant)
 - [Multilingual voice AI helpdesk with Amazon Connect](https://github.com/aws-samples/sample-voice-ai-multilingual-helpdesk-amazon-connect)
 - [Amazon Connect realtime analytics and language translation](https://github.com/aws-samples/sample-amazon-connect-realtime-analytics-and-language-translation)
 - [Voice AI assistant with Amazon Nova Sonic](https://github.com/aws-samples/sample-voice-AI-assistant-with-amazon-nova-sonic)
