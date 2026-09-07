@@ -19,13 +19,15 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) | A vendor-neutral evaluation harness for enterprise agents, with synthetic cases, provider comparisons, and explicit failure signals across task success, grounding, tool use, safety, escalation, and latency. |
 | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) | An agent project focused on predicting enterprise managed-services SLA breaches and recovery workflows. |
 
-### Selected AWS Samples
+### AWS Samples I've published
 
-Explore these voice and realtime AI implementations, also featured on my GitHub profile:
+Explore five projects spanning enterprise AI, voice experiences, realtime insights, and resilient contact centers:
 
 - [Multilingual voice AI helpdesk with Amazon Connect](https://github.com/aws-samples/sample-voice-ai-multilingual-helpdesk-amazon-connect)
 - [Amazon Connect realtime analytics and language translation](https://github.com/aws-samples/sample-amazon-connect-realtime-analytics-and-language-translation)
 - [Voice AI assistant with Amazon Nova Sonic](https://github.com/aws-samples/sample-voice-AI-assistant-with-amazon-nova-sonic)
+- [Suspicious Activity Report (SAR) narrative agent with Claude on Amazon Bedrock](https://github.com/aws-samples/sample-amazon-bedrock-claude-sar-narrative-agent)
+- [Multi-region resilient contact center for Amazon Connect](https://github.com/aws-samples/sample-multi-region-resilient-contact-center-for-amazon-connect)
 
 ### Engineering perspective
 
