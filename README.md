@@ -21,7 +21,9 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 ### AWS Samples I've published
 
-Explore five projects spanning enterprise AI, voice experiences, realtime insights, and resilient contact centers:
+Explore six projects spanning enterprise AI, claims intelligence, voice experiences, realtime insights, and resilient contact centers:
+
+- [Claims Intelligence — insurance claims review and provider voice assistant](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant)
 
 - [Multilingual voice AI helpdesk with Amazon Connect](https://github.com/aws-samples/sample-voice-ai-multilingual-helpdesk-amazon-connect)
 - [Amazon Connect realtime analytics and language translation](https://github.com/aws-samples/sample-amazon-connect-realtime-analytics-and-language-translation)
