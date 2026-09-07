@@ -18,8 +18,11 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | Project | What to explore |
 | --- | --- |
+| [Claims Intelligence](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | OpenAI on Amazon Bedrock for claims review and the OpenAI Realtime API for provider voice assistance. Explore the [architecture](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant#readme) and explicit human decision boundaries. |
 | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) | A vendor-neutral evaluation harness for enterprise agents, with synthetic cases, provider comparisons, and explicit failure signals across task success, grounding, tool use, safety, escalation, and latency. |
 | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) | An agent project focused on predicting enterprise managed-services SLA breaches and recovery workflows. |
+
+**Try the Eval Lab:** [v0.2.0 release](https://github.com/SayedAbbas/enterprise-agent-eval-lab/releases/tag/v0.2.0) · [No-API-key demo](https://github.com/SayedAbbas/enterprise-agent-eval-lab#demo--sample-results) · [Sample mock report](https://github.com/SayedAbbas/enterprise-agent-eval-lab/blob/main/results/example-report.md). The mock uses expected answers to demonstrate the pipeline; its scores are not live-model benchmark results.
 
 ### AWS Samples I've published
 
