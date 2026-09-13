@@ -18,6 +18,7 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | Project | What to explore |
 | --- | --- |
+| [RevenueGuard](https://github.com/SayedAbbas/revenueguard) | A Claude-powered revenue leakage investigation prototype with deterministic contract, usage, and invoice reconciliation, evidence-linked reviews, synthetic enterprise scenarios, and an offline demo. |
 | [Claims Intelligence](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | OpenAI on Amazon Bedrock for claims review and the OpenAI Realtime API for provider voice assistance. Explore the [architecture](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant#readme) and explicit human decision boundaries. |
 | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) | A vendor-neutral evaluation harness for enterprise agents, with synthetic cases, provider comparisons, and explicit failure signals across task success, grounding, tool use, safety, escalation, and latency. |
 | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) | An agent project focused on predicting enterprise managed-services SLA breaches and recovery workflows. |
