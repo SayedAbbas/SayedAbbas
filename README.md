@@ -34,6 +34,9 @@ I write practical notes on architectures, patterns, and lessons for moving enter
 - **[Responsible AI Production Safety](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/responsible-ai-production-safety-architecture.md)** — Turning Responsible AI principles into runtime controls, bounded autonomy and evidence.
 - **[Agentic AI Governance](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/agentic-ai-governance-action-path.md)** — Governing identity, tools, autonomy and the complete action path.
 - **[Production Voice Agents with ElevenLabs](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-elevenlabs.md)** — Architecture for latency, tools, guardrails, testing, evals and human handoff.
+- **[Production Voice AI with Cartesia](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-ai-with-cartesia.md)** — End-to-end latency, turn-taking, tools, bounded actions and production evaluation.
+- **[Production Voice Agents with Deepgram](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-deepgram.md)** — Realtime conversational architecture, turn detection, barge-in, function calling and evals.
+- **[OpenAI Realtime API — Beyond Speech-to-Speech](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-openai-realtime-api.md)** — Full-duplex voice, tool authorization, latency, evals and production controls.
 
 ### AWS Samples I've published
 
