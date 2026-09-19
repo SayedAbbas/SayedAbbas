@@ -4,6 +4,27 @@
 
 I help enterprises turn ambitious AI ideas into production systems. My focus is **production-grade Enterprise AI Agents**: agents with measurable quality, grounded responses, controlled tool access, and clear operational boundaries.
 
+### At a glance
+
+- **Business-first Applied AI** — start with the customer problem and measurable outcome, then decide where AI adds value.
+- **Hands-on architecture** — agents, tool calling, MCP, RAG, realtime/Voice AI, evals, guardrails and enterprise integrations.
+- **Production discipline** — deterministic controls around high-impact actions, explicit human approval, observability and regression evaluation.
+- **Public proof** — runnable projects, CI-backed evaluation harnesses, architecture patterns and production-focused technical writing.
+
+### Start here
+
+| If you're looking for... | Start with |
+| --- | --- |
+| **Production agent evaluation** | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) — compare frontier models on business outcomes, grounding, tool use, safety, escalation and latency. |
+| **Grok / xAI applied to an enterprise workflow** | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) — Grok-powered evidence synthesis with deterministic SLA math and approval boundaries. |
+| **AI tied to a commercial outcome** | [RevenueGuard](https://github.com/SayedAbbas/revenueguard) — evidence-backed revenue leakage investigation with deterministic reconciliation and bounded Claude tool use. |
+| **Realtime / Voice AI architecture** | [Production Voice Architectures](https://github.com/SayedAbbas/production-applied-ai#applied-ai-production-voice-architectures) — Grok Voice, OpenAI Realtime, Deepgram, Cartesia and ElevenLabs. |
+| **Production safety & governance** | [Production Applied AI](https://github.com/SayedAbbas/production-applied-ai) — evals, Responsible AI, agentic governance and production patterns. |
+
+### How I think about production AI
+
+> **Start with the business outcome. Give the model room to reason where the path is variable. Keep authorization, policy and high-impact controls deterministic. Then evaluate the complete trajectory—not just the final answer.**
+
 ### What I focus on
 
 - **Enterprise AI Agents & Agent Evals** — evaluate task outcomes, tool correctness, grounding, safety, and escalation.
