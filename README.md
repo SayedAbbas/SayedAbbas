@@ -15,6 +15,7 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | If you're looking for... | Start with |
 | --- | --- |
+| **Flagship: Voice AI → enterprise action** | [Grok Voice Enterprise Action Agent](https://github.com/SayedAbbas/grok-voice-enterprise-action-agent) — runnable telecom workflow with tool calling, deterministic authorization, trajectory evals and CI. |
 | **Production agent evaluation** | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) — compare frontier models on business outcomes, grounding, tool use, safety, escalation and latency. |
 | **Grok / xAI applied to an enterprise workflow** | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) — Grok-powered evidence synthesis with deterministic SLA math and approval boundaries. |
 | **AI tied to a commercial outcome** | [RevenueGuard](https://github.com/SayedAbbas/revenueguard) — evidence-backed revenue leakage investigation with deterministic reconciliation and bounded Claude tool use. |
@@ -38,6 +39,7 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | Project | What to explore |
 | --- | --- |
+| [Grok Voice Enterprise Action Agent](https://github.com/SayedAbbas/grok-voice-enterprise-action-agent) | **Flagship demo:** conversation → reasoning → tools → authorization → action → evaluation, with a runnable synthetic telecom journey, safety boundaries, tests and CI. |
 | [RevenueGuard](https://github.com/SayedAbbas/revenueguard) | A Claude-powered revenue leakage investigation prototype with deterministic contract, usage, and invoice reconciliation, evidence-linked reviews, synthetic enterprise scenarios, and an offline demo. |
 | [Claims Intelligence](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | OpenAI on Amazon Bedrock for claims review and the OpenAI Realtime API for provider voice assistance. Explore the [architecture](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant#readme) and explicit human decision boundaries. |
 | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) | A vendor-neutral evaluation harness for enterprise agents, with synthetic cases, provider comparisons, and explicit failure signals across task success, grounding, tool use, safety, escalation, and latency. |
