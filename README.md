@@ -25,6 +25,13 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 **Try the Eval Lab:** [v0.2.0 release](https://github.com/SayedAbbas/enterprise-agent-eval-lab/releases/tag/v0.2.0) · [No-API-key demo](https://github.com/SayedAbbas/enterprise-agent-eval-lab#demo--sample-results) · [Sample mock report](https://github.com/SayedAbbas/enterprise-agent-eval-lab/blob/main/results/example-report.md). The mock uses expected answers to demonstrate the pipeline; its scores are not live-model benchmark results.
 
+### Production Applied AI — Articles
+
+I write practical notes on architectures, patterns, and lessons for moving enterprise AI from prototype to production.
+
+- **[Your AI Agent Passed 99% of Evals. Why Can It Still Fail in Production?](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/why-99-percent-eval-pass-can-still-fail-in-production.md)** — Golden datasets, offline and online evals, release gates, observability, CI/CD, and the production feedback loop.
+- **[Production Applied AI](https://github.com/SayedAbbas/production-applied-ai)** — The full collection of articles and architecture patterns.
+
 ### AWS Samples I've published
 
 Explore six projects spanning enterprise AI, claims intelligence, voice experiences, realtime insights, and resilient contact centers:
