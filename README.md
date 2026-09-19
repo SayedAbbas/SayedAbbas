@@ -31,6 +31,9 @@ I write practical notes on architectures, patterns, and lessons for moving enter
 
 - **[Your AI Agent Passed 99% of Evals. Why Can It Still Fail in Production?](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/why-99-percent-eval-pass-can-still-fail-in-production.md)** — Golden datasets, offline and online evals, release gates, observability, CI/CD, and the production feedback loop.
 - **[Production Applied AI](https://github.com/SayedAbbas/production-applied-ai)** — The full collection of articles and architecture patterns.
+- **[Responsible AI Production Safety](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/responsible-ai-production-safety-architecture.md)** — Turning Responsible AI principles into runtime controls, bounded autonomy and evidence.
+- **[Agentic AI Governance](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/agentic-ai-governance-action-path.md)** — Governing identity, tools, autonomy and the complete action path.
+- **[Production Voice Agents with ElevenLabs](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-elevenlabs.md)** — Architecture for latency, tools, guardrails, testing, evals and human handoff.
 
 ### AWS Samples I've published
 
