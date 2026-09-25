@@ -15,13 +15,12 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | If you're looking for... | Start with |
 | --- | --- |
-| **Flagship: Voice AI → enterprise action** | [Grok Voice Enterprise Action Agent](https://github.com/SayedAbbas/grok-voice-enterprise-action-agent) — runnable telecom workflow with tool calling, deterministic authorization, trajectory evals and CI. |
 | **Mistral + MCP change-risk architecture** | [Mistral Enterprise Change Risk Agent](https://github.com/SayedAbbas/mistral-enterprise-change-risk-agent) — evidence-grounded production-change investigation with MCP tools, deterministic release gates and human approval. |
 | **Jev typed decisions & model routing** | [Jev Enterprise Decision Eval Lab](https://github.com/SayedAbbas/jev-enterprise-decision-eval-lab) — compare Jev with OpenAI, Claude and Gemini across decision quality, calibration, latency, cost and confidence-gated escalation. |
 | **Production agent evaluation** | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) — compare frontier models on business outcomes, grounding, tool use, safety, escalation and latency. |
 | **Grok / xAI applied to an enterprise workflow** | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) — Grok-powered evidence synthesis with deterministic SLA math and approval boundaries. |
 | **AI tied to a commercial outcome** | [RevenueGuard](https://github.com/SayedAbbas/revenueguard) — evidence-backed revenue leakage investigation with deterministic reconciliation and bounded Claude tool use. |
-| **Realtime / Voice AI architecture** | [Production Voice Architectures](https://github.com/SayedAbbas/production-applied-ai#applied-ai-production-voice-architectures) — Grok Voice, OpenAI Realtime, Deepgram, Cartesia and ElevenLabs. |
+| **Voice AI projects and architectures** | [Explore the Voice AI section](#voice-ai). |
 | **Production safety & governance** | [Production Applied AI](https://github.com/SayedAbbas/production-applied-ai) — evals, Responsible AI, agentic governance and production patterns. |
 
 ### How I think about production AI
@@ -41,40 +40,47 @@ I help enterprises turn ambitious AI ideas into production systems. My focus is 
 
 | Project | What to explore |
 | --- | --- |
-| [Grok Voice Enterprise Action Agent](https://github.com/SayedAbbas/grok-voice-enterprise-action-agent) | **Flagship demo:** conversation → reasoning → tools → authorization → action → evaluation, with a runnable synthetic telecom journey, safety boundaries, tests and CI. |
 | [Jev Enterprise Decision Eval Lab](https://github.com/SayedAbbas/jev-enterprise-decision-eval-lab) | Compare Jev with OpenAI, Claude and Gemini across enterprise routing, change risk, fraud, claims and support—with calibration, latency, cost, coverage and confidence-based escalation metrics. |
 | [RevenueGuard](https://github.com/SayedAbbas/revenueguard) | A Claude-powered revenue leakage investigation prototype with deterministic contract, usage, and invoice reconciliation, evidence-linked reviews, synthetic enterprise scenarios, and an offline demo. |
-| [Claims Intelligence](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | OpenAI on Amazon Bedrock for claims review and the OpenAI Realtime API for provider voice assistance. Explore the [architecture](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant#readme) and explicit human decision boundaries. |
+| [Claims Intelligence](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | OpenAI on Amazon Bedrock for evidence-grounded claims review, with explicit human decision boundaries. |
+| [SAR Narrative Agent](https://github.com/aws-samples/sample-amazon-bedrock-claude-sar-narrative-agent) | A Claude-based, evidence-grounded suspicious activity report workflow with citations and human review. |
 | [Enterprise Agent Eval Lab](https://github.com/SayedAbbas/enterprise-agent-eval-lab) | A vendor-neutral evaluation harness for enterprise agents, with synthetic cases, provider comparisons, and explicit failure signals across task success, grounding, tool use, safety, escalation, and latency. |
 | [Managed Services SLA Recovery Agent](https://github.com/SayedAbbas/managed-services-sla-recovery-agent) | A Grok-powered agent project focused on predicting enterprise managed-services SLA breaches and recovery workflows. |
 | [Mistral Enterprise Change Risk Agent](https://github.com/SayedAbbas/mistral-enterprise-change-risk-agent) | A Mistral + MCP agent for production-change risk: governed evidence tools, traceable evidence IDs, deterministic escalation controls, human approval, evals and CI-backed MCP integration testing. |
 
 **Try the Eval Lab:** [v0.2.0 release](https://github.com/SayedAbbas/enterprise-agent-eval-lab/releases/tag/v0.2.0) · [No-API-key demo](https://github.com/SayedAbbas/enterprise-agent-eval-lab#demo--sample-results) · [Sample mock report](https://github.com/SayedAbbas/enterprise-agent-eval-lab/blob/main/results/example-report.md). The mock uses expected answers to demonstrate the pipeline; its scores are not live-model benchmark results.
 
+### Voice AI
+
+I design voice agents around the full customer journey: low latency and natural turn-taking, reliable enterprise tools, clear authorization, human handoff, and evaluation of the action taken. My published work includes these projects and architecture guides.
+
+**Projects and AWS Samples**
+
+| Project | What to explore |
+| --- | --- |
+| [Grok Voice Enterprise Action Agent](https://github.com/SayedAbbas/grok-voice-enterprise-action-agent) | **Flagship voice project:** a runnable, synthetic telecom journey from conversation to diagnostics and controlled action, with Grok Voice, tool calls, deterministic authorization, trajectory evals, and CI. |
+| [Claims Intelligence — provider voice assistant](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant) | An interruptible OpenAI Realtime API voice surface over the same synthetic claim as the specialist workspace. The voice agent can explain status and request documents; claim decisions stay with a human. |
+| [Multilingual Voice AI Helpdesk with Amazon Connect](https://github.com/aws-samples/sample-voice-ai-multilingual-helpdesk-amazon-connect) | A multilingual support experience using Amazon Connect. |
+| [Amazon Connect Realtime Analytics and Language Translation](https://github.com/aws-samples/sample-amazon-connect-realtime-analytics-and-language-translation) | Realtime contact center insights and language translation. |
+| [Voice AI Assistant with Amazon Nova Sonic](https://github.com/aws-samples/sample-voice-AI-assistant-with-amazon-nova-sonic) | An Amazon Nova Sonic voice assistant sample. |
+| [Multi-region Resilient Contact Center for Amazon Connect](https://github.com/aws-samples/sample-multi-region-resilient-contact-center-for-amazon-connect) | Contact center resilience architecture that supports reliable voice operations. |
+
+**Production voice architecture writing** — in [Production Applied AI](https://github.com/SayedAbbas/production-applied-ai#applied-ai-production-voice-architectures):
+
+- [Grok Voice — From Conversation to Business Outcome](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/solving-real-enterprise-problems-with-grok-voice.md) — Realtime reasoning, tools, authorization, and evals across enterprise workflows.
+- [Production Voice Agents with ElevenLabs](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-elevenlabs.md) — Latency, tools, guardrails, conversation testing, evals, and human handoff.
+- [Production Voice AI with Cartesia](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-ai-with-cartesia.md) — End-to-end latency, turn-taking, tools, bounded actions, and production evaluation.
+- [Production Voice Agents with Deepgram](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-deepgram.md) — Turn detection, barge-in, function calling, and evals.
+- [OpenAI Realtime API — Beyond Speech-to-Speech](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-openai-realtime-api.md) — Full-duplex voice, tool authorization, latency, and production controls.
+
 ### Production Applied AI — Articles
 
 I write practical notes on architectures, patterns, and lessons for moving enterprise AI from prototype to production.
 
-- **[Grok Voice — From Conversation to Business Outcome](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/solving-real-enterprise-problems-with-grok-voice.md)** — Solving telecom, sales, financial-services, field-service and multilingual business problems with realtime reasoning, enterprise tools, authorization boundaries and evals.
 - **[Your AI Agent Passed 99% of Evals. Why Can It Still Fail in Production?](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/why-99-percent-eval-pass-can-still-fail-in-production.md)** — Golden datasets, offline and online evals, release gates, observability, CI/CD, and the production feedback loop.
 - **[Responsible AI Production Safety](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/responsible-ai-production-safety-architecture.md)** — Turning Responsible AI principles into runtime controls, bounded autonomy and evidence.
 - **[Agentic AI Governance](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/agentic-ai-governance-action-path.md)** — Governing identity, tools, autonomy and the complete action path.
-- **[Production Voice Agents with ElevenLabs](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-elevenlabs.md)** — Architecture for latency, tools, guardrails, testing, evals and human handoff.
-- **[Production Voice AI with Cartesia](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-ai-with-cartesia.md)** — End-to-end latency, turn-taking, tools, bounded actions and production evaluation.
-- **[Production Voice Agents with Deepgram](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-with-deepgram.md)** — Realtime conversational architecture, turn detection, barge-in, function calling and evals.
-- **[OpenAI Realtime API — Beyond Speech-to-Speech](https://github.com/SayedAbbas/production-applied-ai/blob/main/articles/building-production-voice-agents-openai-realtime-api.md)** — Full-duplex voice, tool authorization, latency, evals and production controls.
 - **[Production Applied AI](https://github.com/SayedAbbas/production-applied-ai)** — The full collection of articles and architecture patterns.
-
-### AWS Samples I've published
-
-Explore six projects spanning enterprise AI, claims intelligence, voice experiences, realtime insights, and resilient contact centers:
-
-- [Claims Intelligence — OpenAI on Amazon Bedrock + OpenAI Realtime API for claims review and provider voice assistance](https://github.com/aws-samples/sample-Bedrock-OpenAI-insurance-Agentic-AI-claims-assistant)
-- [Multilingual voice AI helpdesk with Amazon Connect](https://github.com/aws-samples/sample-voice-ai-multilingual-helpdesk-amazon-connect)
-- [Amazon Connect realtime analytics and language translation](https://github.com/aws-samples/sample-amazon-connect-realtime-analytics-and-language-translation)
-- [Voice AI assistant with Amazon Nova Sonic](https://github.com/aws-samples/sample-voice-AI-assistant-with-amazon-nova-sonic)
-- [Suspicious Activity Report (SAR) narrative agent with Claude on Amazon Bedrock](https://github.com/aws-samples/sample-amazon-bedrock-claude-sar-narrative-agent)
-- [Multi-region resilient contact center for Amazon Connect](https://github.com/aws-samples/sample-multi-region-resilient-contact-center-for-amazon-connect)
 
 ### Engineering perspective
 
